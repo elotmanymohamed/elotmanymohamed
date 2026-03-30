@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/MohamedElOtmany">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9FD6&center=true&vCenter=true&width=600&lines=Financial+Data+Scientist+in+the+Making;Actuarial+%26+Risk+Analysis+Enthusiast;Quantitative+Finance+%7C+ML+for+Finance;Seeking+PFA+Internship+%E2%80%94+Banking+%2F+Insurance+%2F+Consulting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9FD6&center=true&vCenter=true&width=600&lines=Financial+Data+Scientist+in+the+Making;Actuarial+%26+Risk+Analysis+Enthusiast;Quantitative+Finance+%7C+ML+for+Finance;Seeking+PFA+Internship+%E2%80%94+Banking+%2F+Insurance" alt="Typing SVG" />
 </a>
 
 <br/>
