@@ -1,101 +1,168 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20El%20Otmany&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Actuarial%20%26%20Financial%20Engineering%20Student&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<!-- Typing Animation -->
+<a href="https://github.com/MohamedElOtmany">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9FD6&center=true&vCenter=true&width=600&lines=Financial+Data+Scientist+in+the+Making;Actuarial+%26+Risk+Analysis+Enthusiast;Quantitative+Finance+%7C+ML+for+Finance;Seeking+PFA+Internship+%E2%80%94+Banking+%2F+Insurance+%2F+Consulting" alt="Typing SVG" />
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<br/>
 
-</details>
-  
-<hr></hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_El_Otmany-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Location](https://img.shields.io/badge/📍_Errachidia,_Morocco-grey?style=flat-square)](https://github.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedElOtmany&style=flat-square&color=2c9fd6&label=PROFILE+VIEWS)
 
-**Code Cycle**<br>
+</div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+---
 
+## 🧑‍💼 About Me
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+```python
+class Mohamed(FinanceEngineer):
+
+    name         = "Mohamed El Otmany"
+    degree       = "Engineering — Actuarial & Financial Science (Y2)"
+    university   = "FST Errachidia"
+    location     = "Morocco 🇲🇦"
+    
+    interests    = [
+        "Financial Data Science",
+        "Stochastic Processes & Risk Modeling",
+        "Credit Scoring & ML for Finance",
+        "Actuarial Mathematics",
+        "Statistical Inference & Forecasting"
+    ]
+
+    currently    = "Seeking end-of-year internship (PFA)"
+    targets      = ["Banking", "Insurance", "Financial Consulting"]
+    open_to      = ["Data Analyst", "Quantitative Analyst", "Risk Analyst"]
+
+    fun_fact     = "I turn financial noise into signal — one model at a time."
+```
+
+---
+
+## 🎯 What I'm Working On
+
+- 📊 Building **ML pipelines for credit scoring** using logistic regression, XGBoost, and survival analysis
+- 📈 Exploring **stochastic models** (GBM, Ornstein-Uhlenbeck) for asset price simulation
+- 🧮 Applying **actuarial mathematics** to insurance pricing and reserve estimation
+- 🔬 Developing **financial forecasting models** with time-series analysis (ARIMA, GARCH)
+
+---
+
+## 🛠️ Technical Stack
+
+### 📐 Quantitative & Statistical Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4A90D9?style=flat-square&logo=python&logoColor=white)
+
+### 📉 Finance & Risk Modeling
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Simulation-2c9fd6?style=flat-square&logo=python&logoColor=white)
+![GARCH](https://img.shields.io/badge/GARCH_/_ARIMA-grey?style=flat-square&logo=r&logoColor=white)
+![Black-Scholes](https://img.shields.io/badge/Black--Scholes_Model-1a1a2e?style=flat-square&logo=python&logoColor=white)
+![Credit Risk](https://img.shields.io/badge/Credit_Risk_Modeling-c0392b?style=flat-square&logo=python&logoColor=white)
+
+### 📊 Data & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 🗄️ Databases & Development Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX_(Overleaf)-008080?style=flat-square&logo=latex&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Credit Scoring Model</h3>
+      <p>End-to-end ML pipeline for credit risk assessment using logistic regression, decision trees, and XGBoost. Includes feature engineering, scorecard calibration, and AUROC/Gini evaluation.</p>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>📈 Stochastic Asset Price Simulator</h3>
+      <p>Monte Carlo simulation of equity prices using Geometric Brownian Motion and mean-reverting processes (Vasicek, CIR). Applied to option pricing under Black-Scholes framework.</p>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-grey?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔮 Financial Time Series Forecasting</h3>
+      <p>Volatility modeling and return forecasting using ARIMA, GARCH(1,1), and LSTM networks. Backtested on historical FX and equity data with rolling-window cross-validation.</p>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>🛡️ Actuarial Reserve Estimation</h3>
+      <p>Non-life insurance reserving using Chain-Ladder and Bornhuetter-Ferguson methods. Implemented in R with claims triangle data and bootstrapped confidence intervals on IBNR reserves.</p>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Actuarial-teal?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Academic Background
+
+| 🏛️ Institution | 📚 Program | 📅 Period |
+|---|---|---|
+| **FST Errachidia** | Engineering — Actuarial & Financial Science | 2023 – Present |
+| *Relevant Coursework* | Probability Theory, Stochastic Calculus, Financial Mathematics, Time Series, Statistical Inference, Risk Management, Life & Non-Life Insurance | — |
+
+---
+
+## 🌱 Currently Learning
+
+```
+📌 Advanced Credit Risk Modeling (PD, LGD, EAD under Basel III)
+📌 Machine Learning in Finance (XGBoost, Neural Nets for tabular data)
+📌 Survival Analysis for churn and default prediction
+📌 Financial Derivatives Pricing (Binomial Trees, Monte Carlo, FEM)
+📌 Exam preparation: actuarial certifications track
+```
+
+---
+
+## 🤝 Let's Connect
+
+> I am actively **seeking a PFA internship** in **Banking, Insurance, or Financial Consulting**.  
+> I'm also open to research collaborations, academic projects, and data science challenges in finance.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**"In God we trust. All others must bring data."** — W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
