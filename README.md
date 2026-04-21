@@ -29,6 +29,8 @@
 
 ## 🧑‍💼 About Me
 
+Results-driven Engineering Student specializing in Finance & Actuarial Science with a demonstrated track record in quantitative modeling, statistical inference, and machine learning-driven financial analysis. Proficient in architecting end-to-end data science pipelines—from feature engineering and model calibration to risk-metric reporting—across credit risk, portfolio optimization, and stochastic process domains. Combines rigorous mathematical foundations (probability theory, stochastic calculus, time-series econometrics) with production-grade Python and R development to deliver actionable insights. Actively targeting high-impact internships in Quantitative Risk, ALM/Treasury Analytics, or Data Science within Tier-1 banking and insurance institutions.
+
 ```python
 class Mohamed(FinanceEngineer):
 
@@ -94,41 +96,6 @@ class Mohamed(FinanceEngineer):
 ![LaTeX](https://img.shields.io/badge/LaTeX_(Overleaf)-008080?style=flat-square&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 Credit Scoring Model</h3>
-      <p>End-to-end ML pipeline for credit risk assessment using logistic regression, decision trees, and XGBoost. Includes feature engineering, scorecard calibration, and AUROC/Gini evaluation.</p>
-      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>📈 Stochastic Asset Price Simulator</h3>
-      <p>Monte Carlo simulation of equity prices using Geometric Brownian Motion and mean-reverting processes (Vasicek, CIR). Applied to option pricing under Black-Scholes framework.</p>
-      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-grey?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔮 Financial Time Series Forecasting</h3>
-      <p>Volatility modeling and return forecasting using ARIMA, GARCH(1,1), and LSTM networks. Backtested on historical FX and equity data with rolling-window cross-validation.</p>
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-blue?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Actuarial Reserve Estimation</h3>
-      <p>Non-life insurance reserving using Chain-Ladder and Bornhuetter-Ferguson methods. Implemented in R with claims triangle data and bootstrapped confidence intervals on IBNR reserves.</p>
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Actuarial-teal?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
